@@ -1,0 +1,6 @@
+RemoteSystemsTempFiles/
+.settings
+build
+.classpath
+.project
+.class
